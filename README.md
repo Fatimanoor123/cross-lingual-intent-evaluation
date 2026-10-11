@@ -36,6 +36,21 @@ This project investigates a practical question: **How reliably do multilingual l
 
 **Interpretation:** English accuracy is similar across models, but XLM-RoBERTa transfers substantially better to Urdu and Bengali. English macro-F1 does not show a consistent XLM-RoBERTa advantage.
 
+## Results and Visualizations
+
+
+
+### 1. Tokenization Analysis
+
+![Tokenization Comparison](<img width="1019" height="544" alt="image" src="https://github.com/user-attachments/assets/30fa94ac-2950-40dd-9779-acf7d7073c31" />\)
+
+
+### 2. Statistical Validation
+
+![Bootstrap Confidence Intervals]<img width="1507" height="629" alt="image" src="https://github.com/user-attachments/assets/14530569-eff4-4d9a-952e-eb29453c64f6" />
+
+
+
 ## Dataset
 
 [Amazon MASSIVE](https://github.com/alexa/massive) (v1.0) is a multilingual, task-oriented natural-language understanding dataset.

@@ -110,32 +110,6 @@ In the seed-42 analysis, XLM-RoBERTa generated shorter sequences than mBERT, par
 
 This is an **observational association**, not evidence that tokenization alone explains the accuracy gap. Sequence length, pretraining data, representations, and other architectural/training differences may all contribute.
 
-## Repository layout
-
-The recommended layout is shown below. **Add the files only after exporting and checking the actual Colab notebooks and result files**; the layout is not a claim that every file has already been uploaded.
-
-```text
-cross-lingual-intent-evaluation/
-├── README.md
-├── requirements.txt
-├── .gitignore
-├── LICENSE
-├── notebooks/
-│   ├── 01_mbert_training.ipynb
-│   ├── 02_xlmr_training.ipynb
-│   ├── 03_error_analysis.ipynb
-│   ├── 04_tokenization_analysis.ipynb
-│   ├── 05_multi_seed_experiment.ipynb
-│   ├── 06_checkpoint_verification.ipynb
-│   └── 07_statistical_analysis.ipynb
-├── results/
-│   ├── final_mean_std.csv
-│   ├── three_seed_statistical_summary.csv
-│   └── publication_ready_summary.csv
-└── figures/
-    ├── model_comparison.png
-    └── macro_f1_bootstrap_ci.png
-```
 
 ## Reproducing the experiments
 

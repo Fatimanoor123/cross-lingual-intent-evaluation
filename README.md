@@ -42,12 +42,12 @@ This project investigates a practical question: **How reliably do multilingual l
 
 ### 1. Tokenization Analysis
 
-![Tokenization Comparison](<img width="1019" height="544" alt="image" src="https://github.com/user-attachments/assets/30fa94ac-2950-40dd-9779-acf7d7073c31" />\)
+(<img width="1019" height="544" alt="image" src="https://github.com/user-attachments/assets/30fa94ac-2950-40dd-9779-acf7d7073c31" />\)
 
 
 ### 2. Statistical Validation
 
-![Bootstrap Confidence Intervals]<img width="1507" height="629" alt="image" src="https://github.com/user-attachments/assets/14530569-eff4-4d9a-952e-eb29453c64f6" />
+<img width="1507" height="629" alt="image" src="https://github.com/user-attachments/assets/14530569-eff4-4d9a-952e-eb29453c64f6" />
 
 
 
@@ -161,7 +161,7 @@ The primary development environment was **Google Colab**. Once the notebooks are
 
 ## Author
 
-**Fatima Noor** — Computer Science graduate and AI/NLP research practitioner.
+**Fatima Noor** — Computer Science graduate and AI research practitioner.
 
 GitHub: [Fatimanoor123](https://github.com/Fatimanoor123)
 
